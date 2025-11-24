@@ -2,20 +2,24 @@
 
 Welcome to my personal library of reference books in Computational Complexity, Theory of Computation, and Mathematical Foundations.
 These books are classic references for students, researchers, and anyone passionate about algorithms and complexity theory.
+
 ---
-🔢 1. Complexity Theory / NP Problems
+<h2>🔢 1. Complexity Theory / NP Problems</h2>
 
 Computers and Intractability: A Guide to the Theory of NP-Completeness – Garey & Johnson
 
 Why P ≠ NP – Scott Aaronson
+
 ---
-📖 2. Theory of Computation / Foundations
+<h2>📖 2. Theory of Computation / Foundations</h2>
 
 Introduction to the Theory of Computation – Michael Sipser
+
 ---
-📐 3. Mathematical Foundations
+<h2>📐 3. Mathematical Foundations</h2>
 
 Mathematics for Computer Science – Eric Lehman, F. Thomson Leighton, Albert R. Meyer
+
 ---
 🗂️ Downloads
 
